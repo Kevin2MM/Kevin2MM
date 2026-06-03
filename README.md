@@ -22,7 +22,9 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif"  />
+<p align="right">
+  <img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif" width="250">
+</p>
 
 ###
 
