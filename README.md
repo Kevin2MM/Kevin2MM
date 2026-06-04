@@ -7,12 +7,12 @@
 
 ###
 
+<img align="center" height="220" src="./assets/tenor.gif"  />
 
 ###
 
 <div align="center">
   <h1 height="">⚒️ Languages-Frameworks-Tools ⚒️<h1>
-  <img align="right" height="150" src="./assets/tenor.gif"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
@@ -59,7 +59,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kevin2MM/Kevin2MM/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Kevin2MM/Kevin2MM/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img align="center" src="https://raw.githubusercontent.com/Vierzhaa/Vierzhaa/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+  <img align="center" src="https://raw.githubusercontent.com/Kevin2MM/Kevin2MM/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
