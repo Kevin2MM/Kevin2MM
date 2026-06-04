@@ -1,12 +1,18 @@
-<h2 align="center">Hi 👋! My name is Kevin</h2>
+<img align= "right" src="https://visitor-badge.laobi.icu/badge?page_id=Kevin2MM.Kevin2MM&left_color=blueviolet&right_color=darkviolet"  />
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=38&color=AD56E3&center=true&width=550&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kevin!;" />
+</h1>
 
 ###
 
-<img align="right" height="150" src="./assets/tenor.gif"  />
+<img align="center" height="500" src="./assets/tenor.gif"  />
 
 ###
 
 <div align="center">
+  <h1 height="">⚒️ Languages-Frameworks-Tools ⚒️<h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
@@ -53,6 +59,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kevin2MM/Kevin2MM/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Kevin2MM/Kevin2MM/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img align="center" src="https://raw.githubusercontent.com/Vierzhaa/Vierzhaa/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
