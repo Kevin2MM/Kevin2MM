@@ -94,7 +94,7 @@
 <h2 align="center">Stats ⚡</h2>
 <br>
 <div align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=Kevin2MM&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Kevin2MM&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <br>
   <br>
   <img src="https://raw.githubusercontent.com/Kevin2MM/Kevin2MM/stats-output/stats.svg" height="150" alt="stats graph"  />
