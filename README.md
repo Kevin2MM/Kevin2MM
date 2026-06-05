@@ -98,10 +98,12 @@
   
   <img src="https://raw.githubusercontent.com/Kevin2MM/Kevin2MM/stats-output/stats.svg" height="150" alt="stats graph"  />
   <br>
+  <br>
   <img src="https://raw.githubusercontent.com/Kevin2MM/Kevin2MM/languages-output/languages.svg" height="150" alt="languages graph"  />
   <br>
-  <img align="center" src="https://raw.githubusercontent.com/Kevin2MM/Kevin2MM/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+  <br>
 </div>
+<img align="center" src="https://raw.githubusercontent.com/Kevin2MM/Kevin2MM/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 
 ###
 
