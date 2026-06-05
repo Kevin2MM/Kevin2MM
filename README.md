@@ -6,10 +6,10 @@
 </h1>
 
 
-<img align="right" height="220" src="./assets/tenor.gif" />
 
 ## 👨‍💻 About Me
 
+<img align="right" height="220" src="./assets/tenor.gif" />
 * 🌱 I'm currently learning **Machine Learning**
 * 🐍 Building projects with **Python**
 * 🎯 Goal: Become a skilled **AI & Backend Developer**
