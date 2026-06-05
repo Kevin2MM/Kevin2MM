@@ -7,9 +7,9 @@
 
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td width="60%" align="left">
+      <td width="65%" align="left" valign="top">
 
 ### 👨‍💻 About Me
 
@@ -21,11 +21,14 @@
 
   ```
 </td>
-  <td width="40%" align="center">
+  <td width="35%" align="center">
     <img src="./assets/tenor.gif" height="220" />
-  </td>
-  </table>
+</td>
+  ```
+
     </tr>
+  </table>
+
 </div>
 
 ## 🎯 2026 Goals
