@@ -5,11 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=38&color=AD56E3&center=true&width=550&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kevin!;" />
 </h1>
 
-
+<img align="right" height="180" src="./assets/tenor.gif" />
 
 ## 👨‍💻 About Me
-
-<img align="right" height="220" src="./assets/tenor.gif" />
 * 🌱 I'm currently learning **Machine Learning**
 * 🐍 Building projects with **Python**
 * 🎯 Goal: Become a skilled **AI & Backend Developer**
@@ -40,7 +38,7 @@
 
 <div align="center">
 
-  <h1 height="">⚒️ Languages-Frameworks-Tools ⚒️<h1>
+  <h1>⚒️ Languages-Frameworks-Tools ⚒️</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
