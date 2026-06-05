@@ -5,13 +5,46 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=38&color=AD56E3&center=true&width=550&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kevin!;" />
 </h1>
 
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" align="left">
+
+### 👨‍💻 About Me
+
+* 🌱 I'm currently learning **Machine Learning**
+* 🐍 Building projects with **Python**
+* 🎯 Goal: Become a skilled **AI & Backend Developer**
+* 📚 Currently exploring **Data Science and Algorithms**
+* 🚀 Creating projects and sharing my learning journey
+
+  ```
+</td>
+  <td width="40%" align="center">
+    <img src="./assets/tenor.gif" height="220" />
+  </td>
+  </table>
+
+</div>
+
+## 🎯 2026 Goals
+
+* [x] Learn Python Fundamentals
+* [x] Learn Git & GitHub
+* [x] Build Django Projects
+* [ ] Master Machine Learning
+* [ ] Learn Deep Learning
+* [ ] Contribute to Open Source
+* [ ] Build an AI Application
+
 ###
 
-<img align="center" height="220" src="./assets/tenor.gif"  />
 
 ###
 
 <div align="center">
+
   <h1 height="">⚒️ Languages-Frameworks-Tools ⚒️<h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="15" />
@@ -32,6 +65,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
 </div>
 
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|------------|
+| 🎓 Student Management | Python application for managing student data |
+| 🤖 Machine Learning Predictor | Predict student outcomes using ML |
+| 🌐 Django Website | Web application built with Django |
 ###
 
 <div align="left">
@@ -66,10 +106,4 @@
 
 <br clear="both">
 
-
-
-###
-
-
-
-###
+##
