@@ -6,30 +6,22 @@
 </h1>
 
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="65%" align="left" valign="top">
+<img align="right" height="220" src="./assets/tenor.gif" />
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 * 🌱 I'm currently learning **Machine Learning**
 * 🐍 Building projects with **Python**
 * 🎯 Goal: Become a skilled **AI & Backend Developer**
-* 📚 Currently exploring **Data Science and Algorithms**
+* 📚 Currently exploring **Data Science, Algorithms, and Django**
 * 🚀 Creating projects and sharing my learning journey
+* 💡 Interested in **Artificial Intelligence & Backend Development**
+* 🎮 Enjoy solving programming and logic challenges
 
-  ```
-</td>
-  <td width="35%" align="center">
-    <img src="./assets/tenor.gif" height="220" />
-</td>
-  ```
+<br clear="right"/>
 
-  </tr>
-  </table>
+###
 
-</div>
 
 ## 🎯 2026 Goals
 
