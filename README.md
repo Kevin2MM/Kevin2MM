@@ -5,9 +5,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=38&color=AD56E3&center=true&width=550&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kevin!;" />
 </h1>
 
-<img align="right" height="180" src="./assets/tenor.gif" />
 
 ## 👨‍💻 About Me
+<img align="right" height="180" src="./assets/tenor.gif" />
+
+
 * 🌱 I'm currently learning **Machine Learning**
 * 🐍 Building projects with **Python**
 * 🎯 Goal: Become a skilled **AI & Backend Developer**
