@@ -25,7 +25,7 @@
     <img src="./assets/tenor.gif" height="220" />
   </td>
   </table>
-
+    </tr>
 </div>
 
 ## 🎯 2026 Goals
